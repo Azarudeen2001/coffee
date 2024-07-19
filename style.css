@@ -1,0 +1,117 @@
+
+       
+        a:hover{
+            font-size:large ;
+            color: green;
+            text-decoration: underline;
+        }
+        button{
+            font-size: medium;
+            
+
+        }
+        .azar{
+           
+            background-image: url(./1.jpeg);
+            height:300px;
+            margin: 0px;
+            padding: 0px;
+            background-attachment: fixed;
+        }
+        #ss:hover{
+            color: white;
+            background-color: rgb(24, 48, 189);
+            font-size: large;
+            border: 0px;
+            margin: 0px;
+            border-radius: 5px;
+        }
+        #si{
+            width: 200px;
+
+        }
+        #s{
+            width: 200px;
+        }
+        #t{
+            padding-left: 5px;
+            width: 200px;
+        }
+        #v{
+            padding-left: 5px;
+            width: 200px;
+        }
+        #k{
+            color: antiquewhite;
+        }
+        #y{
+            color: green;
+        }
+       
+        #z{
+            width: 200px;
+        }
+        .o{
+            height: 150px; 
+            width: 100px;
+            display: flex;
+        }
+        .n{
+            display: flex;
+        }
+        .m{
+            display: flex;
+        }
+        #p{
+            padding-left: 169px;
+        }
+        .h{
+            padding-left: 3px;
+        }
+        #l{
+            padding-left: 116px;
+        }
+        fieldset{
+            margin-top: 5px;
+            height: 100px;
+            width: 200px;
+        }
+        #k{
+            margin-top: 5px;
+        }
+        #j{
+            margin-top: 5px;
+        }
+        #mm{
+            margin-top: 5px;
+            height: 200px;
+            width: 300px
+        }
+        .ll{
+            display: flex;
+            width: 300px;
+        }
+        .kk{
+            display: flex;
+        }
+        .jj{
+            display: flex;
+        }
+
+        #oo{
+            padding-left: 106px;
+
+        }
+    #pp{
+        padding-left: 85px;
+    }
+    #hh{
+        padding-left: 202px;
+
+    }
+    #qq{
+        padding-left: 151px;
+
+    }
+
+        
